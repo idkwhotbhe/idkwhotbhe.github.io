@@ -1,1 +1,1 @@
-Welcome to my website! This is weird
+# go to https://idkwhotbhe.github.io/index.html
